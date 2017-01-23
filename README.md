@@ -1,8 +1,8 @@
-# sails-angular2
+# EITR Project
 
-A sample Sails and Angular 2 starter app
+Sails and Angular2
 
-To run this you will need typescript compiler and npm/node installed and setup.
+To run this project you will need typescript compiler and npm/node installed and setup.
 
 #Steps
 
